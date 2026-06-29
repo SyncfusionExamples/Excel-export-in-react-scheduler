@@ -1,6 +1,6 @@
 # How to Export React Scheduler Appointments to an Excel Document
 
-A quick-start project that contains code to export Syncfusion React Scheduler appointments to an Excel Document. This project also includes code snippets for exporting appointments with customized fields, specific events, and customized export file formats.
+A quick-start project that contains code to export [React Scheduler](https://www.syncfusion.com/react-components/react-scheduler) appointments to an Excel Document. This project also includes code snippets for exporting appointments with customized fields, specific events, and customized export file formats.
 
 ## Features
 
@@ -10,23 +10,12 @@ A quick-start project that contains code to export Syncfusion React Scheduler ap
 - Apply custom formatting to exported files
 - Easy integration with existing React Scheduler implementations
 
-## Documentation
-
-Learn more about the Syncfusion React Scheduler component through our comprehensive documentation:
-
-- **React Introduction:** https://ej2.syncfusion.com/react/documentation/introduction
-- **React Schedule Component:** https://ej2.syncfusion.com/react/documentation/schedule/getting-started
-
-Check out this online example of the React Scheduler component:
-https://ej2.syncfusion.com/react/demos/#/material3/schedule/overview
-
-## Project Prerequisites
+## Prerequisites
 
 Ensure you have the compatible versions of the following tools installed on your machine before starting this project:
 
 - [Visual Studio Code](https://code.visualstudio.com/download)
 - [NodeJS](https://nodejs.org/en/download) (latest LTS version recommended)
-- npm (comes with NodeJS)
 
 ## Installation
 
@@ -52,6 +41,16 @@ The application will open in your default browser and you can begin working with
 ## Usage
 
 This project demonstrates how to export Syncfusion React Scheduler appointments to Excel format. You can customize the export process by modifying field mappings, filtering conditions, and file formatting options according to your requirements.
+
+## Documentation
+
+Learn more about the Syncfusion React Scheduler component through our comprehensive documentation:
+
+- **React Introduction:** https://ej2.syncfusion.com/react/documentation/introduction
+- **React Schedule Component:** https://ej2.syncfusion.com/react/documentation/schedule/getting-started
+
+Check out this online example of the React Scheduler component:
+https://ej2.syncfusion.com/react/demos/#/material3/schedule/overview
 
 ## Support
 
